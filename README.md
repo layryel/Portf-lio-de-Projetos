@@ -1,7 +1,7 @@
 # 🌐 Portfólio de Projetos — Layara Miranda
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c3c0c,100:FF69B4&height=150&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c3c0c,100:4f3011&height=150&section=header"/>
 </p>
 
 ## 👩‍💻 Sobre mim
@@ -13,15 +13,13 @@ Este repositório reúne projetos diversos que desenvolvi ao longo da minha traj
 
 ## 🚀 Projetos em destaque
 
-## 🏆 Destaques Acadêmicos e Profissionais
-
-# 🎤 Apresentação no Congresso ENGETEC - Dezembro de 2024
+🎤 Apresentação no Congresso ENGETEC - Dezembro de 2024
 Participação como apresentadora em congresso acadêmico, compartilhando projeto desenvolvido na área de tecnologia, com foco em aplicação prática e comunicação de resultados.
 
-# 📰 Publicações na Revista Izunome (IMMB) 
+📰 Publicações na Revista Izunome (IMMB) 
 Produção de conteúdos institucionais publicados na Revista Izunome, com foco em cobertura jornalística, redação e adaptação de linguagem para diferentes públicos.
 
-# 🎓 Trabalho de Conclusão de Curso (TCC)
+🎓 Trabalho de Conclusão de Curso (TCC)
 Desenvolvimento de projeto final técnico, envolvendo inteligencia artificial para reconhecimento facial, com aplicação de conceitos de desenvolvimento de sistemas e/ou comunicação.
 
 ---
